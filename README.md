@@ -7,7 +7,7 @@ Below is a video showing a series of example usages of the script
 
 
 <div align="center">
-  <a href="https://vimeo.com/217427452"> <img alt="logo" src="https://i.vimeocdn.com/video/634638904_640.webp"/> <\a>
+  <a href="https://vimeo.com/217427452"> <img alt="logo" src="https://i.vimeocdn.com/video/634638904_640.webp"/> 
 </div>
 
 ### To Setup Script
